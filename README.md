@@ -1,6 +1,6 @@
 # Student Management System (Frontend)
 
-A simple Student Management System frontend project built using **HTML5, CSS3, and JavaScript**.  
+A simple Student Management System frontend project built using **HTML, CSS, and JavaScript**.  
 This project is created to practice core frontend concepts like DOM manipulation, event handling, and Fetch API.
 
 ---
@@ -15,9 +15,9 @@ This project is created to practice core frontend concepts like DOM manipulation
 ---
 
 ## 🛠️ Technologies Used
-- HTML5
+- HTML
 - CSS
-- JavaScript (ES6)
+- JavaScript
 - DOM Manipulation
 - Event Handling
 - Fetch API (Basic)
